@@ -19,4 +19,4 @@ To complete the assignment, please do the following:
 Goal - I want contributors to help me list some favorite Pokemon.
 
 # List of Hobby
-.Glaceon
+Glaceon
