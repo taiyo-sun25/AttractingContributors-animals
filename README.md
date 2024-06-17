@@ -15,8 +15,14 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# My Project (Hiragana-collection)
-Goal - I want contributors to help me list some favorite Hiragana.
+# Question
+If you were to buy a drink in a country where you can't read, what color would you want it to be?
+For example
+Red,Transparent,Blue
 
-# List of Hiragana
-な
+# My Project
+Goal - I want contributors to help me list some color of your drink in the context of the question.
+
+# List of color of your drink
+Black <br/>
+
