@@ -18,5 +18,5 @@ To complete the assignment, please do the following:
 # My Project (Pokemon-collection)
 Goal - I want contributors to help me list some favorite Pokemon.
 
-# List of Hobby
+# List of Pokemon
 Glaceon
