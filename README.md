@@ -15,8 +15,8 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# My Project (Pokemon-collection)
-Goal - I want contributors to help me list some favorite Pokemon.
+# My Project (Hiragana-collection)
+Goal - I want contributors to help me list some favorite Hiragana.
 
-# List of Pokemon
-Glaceon
+# List of Hiragana
+な
