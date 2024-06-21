@@ -23,3 +23,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/1089 (Discussion)
 # Tell me your favorit artist!!
 man with a mission
 Leo P
+Ariana Grande
