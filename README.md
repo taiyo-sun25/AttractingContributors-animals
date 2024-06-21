@@ -22,3 +22,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # Tell me your favorit artist!!
 man with a mission
+Leo P
