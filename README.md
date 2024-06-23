@@ -27,3 +27,5 @@ duck<br/>
 Cat<br/>
 Java sparrow<br/>
 Japanese Wokf<br/>
+Lion<br/>
+Bird<br/>
