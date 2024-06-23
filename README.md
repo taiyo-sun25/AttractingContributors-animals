@@ -24,3 +24,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 man with a mission
 Leo P
 Hikaru Utada
+Judy and Mary
+
