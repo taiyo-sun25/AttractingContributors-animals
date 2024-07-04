@@ -25,4 +25,10 @@ man with a mission
 Leo P
 Hikaru Utada
 Judy and Mary
+amazarashi
+King Gnu
+UVERworld
+BUMP OF CHICKEN
+Tailor Swift
+Takehito Koyasu
 
