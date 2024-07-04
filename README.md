@@ -25,7 +25,7 @@ man with a mission
 Leo P
 Hikaru Utada
 amazarashi
-
 BUMP OF CHICKEN
-
+Tailor Swift
+Takehito Koyasu
 
