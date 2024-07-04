@@ -25,4 +25,6 @@ man with a mission
 Leo P
 Hikaru Utada
 amazarashi
+
 Tailor Swift
+Takehito Koyasu
