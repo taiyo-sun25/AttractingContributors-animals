@@ -24,3 +24,12 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/1089 (Discussion)
 man with a mission
 Leo P
 Ariana Grande
+Hikaru Utada
+Judy and Mary
+amazarashi
+King Gnu
+UVERworld
+BUMP OF CHICKEN
+Tailor Swift
+Takehito Koyasu
+
