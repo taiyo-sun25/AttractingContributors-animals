@@ -26,3 +26,7 @@ Leo P
 Hikaru Utada
 amazarashi
 King Gnu
+UVERworld
+BUMP OF CHICKEN
+Tailor Swift
+Takehito Koyasu
