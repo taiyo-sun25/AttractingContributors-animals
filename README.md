@@ -26,3 +26,6 @@ Leo P
 Hikaru Utada
 amazarashi
 UVERworld
+BUMP OF CHICKEN
+Tailor Swift
+Takehito Koyasu
