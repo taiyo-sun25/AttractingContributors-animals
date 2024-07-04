@@ -25,6 +25,7 @@ man with a mission
 Leo P
 Hikaru Utada
 amazarashi
+King Gnu
 UVERworld
 BUMP OF CHICKEN
 Tailor Swift
