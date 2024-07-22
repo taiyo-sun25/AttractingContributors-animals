@@ -21,15 +21,15 @@ https://github.com/gill876/AttractingContributors-Hiking (Hiking destinations)
 https://github.com/NAIST-SE/AttractingContributors/discussions/1089 (Discussion)
 
 # Tell me your favorit artist!!
-man with a mission
-Leo P
-Mrs. GREEN APPLE
-Ariana Grande
-Hikaru Utada
-Judy and Mary
-amazarashi
-King Gnu
-UVERworld
-BUMP OF CHICKEN
-Tailor Swift
-Takehito Koyasu
+man with a mission  
+Leo P  
+Mrs. GREEN APPLE  
+Ariana Grande  
+Hikaru Utada  
+Judy and Mary  
+amazarashi  
+King Gnu  
+UVERworld  
+BUMP OF CHICKEN  
+Tailor Swift  
+Takehito Koyasu  
