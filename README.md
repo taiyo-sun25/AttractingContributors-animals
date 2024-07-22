@@ -7,4 +7,5 @@
 - Canada
 - Iceland
 - Thailand
-
+- Italy
+- Egypt
