@@ -1,6 +1,5 @@
-# Please indicate your favourite places to eat near NAIST.
+# Please tell me a country you want to visit in the future.
 
 # List of place
-- mamemame saisai
-- Gusto
-- Tenka ippin
+- British
+- 
