@@ -5,3 +5,4 @@
 - New Zealand
 - Switzerland
 - Canada
+- Thailand
