@@ -6,3 +6,5 @@
 - Switzerland
 - Canada
 - Iceland
+- Thailand
+
