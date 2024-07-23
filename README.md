@@ -35,3 +35,4 @@ Brown <br/>
 White <br/>
 Transparent <br/>
 Black
+pink
