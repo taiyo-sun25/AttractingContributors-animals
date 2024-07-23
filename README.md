@@ -37,3 +37,4 @@ Mango, Strawberry, apple, avocado, banana, blackberry, blueberry, cherry, coconu
 12. Peach
 13. banana
 14. Melon
+15. Yuzu
