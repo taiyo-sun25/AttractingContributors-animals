@@ -33,3 +33,4 @@ UVERworld
 BUMP OF CHICKEN  
 Tailor Swift  
 Takehito Koyasu  
+kanye west
