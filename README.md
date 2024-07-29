@@ -11,3 +11,4 @@
 10. Tuna
 11. uni
 12. anago / sea eel
+1. Hamachi
