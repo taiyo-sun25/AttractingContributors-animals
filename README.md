@@ -11,3 +11,5 @@
 10. Tuna
 11. uni
 12. Hamburg steak
+13. anago / sea eel
+14. Hamachi
