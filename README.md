@@ -10,4 +10,5 @@
 9. seared salmon
 10. Tuna
 11. uni
-12. Hamachi
+12. anago / sea eel
+1. Hamachi
